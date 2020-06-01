@@ -18,7 +18,7 @@ import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
-    //Ui Components
+    //App Ui Components
     private Button mBtnClick;
 
     private NotificationManager mNotifyManager;
